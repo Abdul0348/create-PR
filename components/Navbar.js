@@ -18,6 +18,12 @@ const Navbar = () => {
               <a href="/contact">Contact Us</a>
             </ul>
           </li>
+          <li>
+            <ul>
+              {" "}
+              <a href="/blog">Blog</a>
+            </ul>
+          </li>
         </div>
       </div>
     </>
